@@ -1,4 +1,4 @@
-import knightMoves from './knightMoves.js';
+import knightMoves from './knights-travails.js';
 
 console.log(knightMoves([0, 0], [1, 2]));
 console.log(knightMoves([0, 0], [3, 3]));
